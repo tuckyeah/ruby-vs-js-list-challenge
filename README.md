@@ -32,8 +32,8 @@ cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 Complete these exercises in both Ruby and Python:
 
--   Complete [True for Any?](http://www.codewars.com/kata/enumerable-magic-number-2-true-for-any)
--   Complete [True for None?](http://www.codewars.com/kata/enumerable-magic-number-4-true-for-none)
+-   [True for Any?](http://www.codewars.com/kata/enumerable-magic-number-2-true-for-any)
+-   [True for None?](http://www.codewars.com/kata/enumerable-magic-number-4-true-for-none)
 
 You should be running `grunt nag` before diagnosing any bugs, since it finds
 some of the most common sources of errors.
