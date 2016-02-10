@@ -21,7 +21,7 @@ JavaScript.
 1.  Fulfill the listed requirements.
 
 Do your work in [`lib/challenge.js`](lib/challenge.js) and
-[`lib/challenge.rb`](lib/challenge.rb). A pull request is note required, but it
+[`lib/challenge.rb`](lib/challenge.rb). A pull request is not required, but it
 is necessary if you want a code review.
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
