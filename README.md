@@ -41,7 +41,7 @@ Complete these exercises in both Ruby and JavaScript:
 ## Bonus
 
 Complete the previous exercises in Python. You will have to do this on your own,
-outside of CodeWars, since the kata has not been translated.
+outside of CodeWars, since these kata have not been translated.
 
 Complete the following exercises in Ruby, JavaScript, and Python:
 
