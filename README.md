@@ -14,15 +14,18 @@ JavaScript.
 
 ## Instructions
 
+You will be completing your work on CodeWars. **Work in the browser**, and if
+you want feedback from consultants on your solution, follow these steps:
+
 1.  Fork and clone this repository.
 1.  Change into the new directory.
 1.  Install dependencies.
 1.  Create and checkout a new branch to work on.
 1.  Fulfill the listed requirements.
 
-Do your work in [`lib/challenge.js`](lib/challenge.js) and
-[`lib/challenge.rb`](lib/challenge.rb). A pull request is not required, but it
-is necessary if you want a code review.
+For consultants to review your code, place it in
+[`lib/challenge.js`](lib/challenge.js) and
+[`lib/challenge.rb`](lib/challenge.rb).
 
 You may wish to refer to [FAQs](https://github.com/ga-wdi-boston/meta/wiki/)
 related to [forking,
@@ -30,17 +33,15 @@ cloning](https://github.com/ga-wdi-boston/meta/wiki/ForkAndClone).
 
 ## Requirements
 
-Complete these exercises in both Ruby and Python:
+Complete these exercises in both Ruby and JavaScript:
 
 -   [True for Any?](http://www.codewars.com/kata/enumerable-magic-number-2-true-for-any)
 -   [True for None?](http://www.codewars.com/kata/enumerable-magic-number-4-true-for-none)
 
-You should be running `grunt nag` before diagnosing any bugs, since it finds
-some of the most common sources of errors.
-
 ## Bonus
 
-Complete the previous exercises in Python.
+Complete the previous exercises in Python. You will have to do this on your own,
+outside of CodeWars, since the kata has not been translated.
 
 Complete the following exercises in Ruby, JavaScript, and Python:
 
